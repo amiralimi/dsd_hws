@@ -2,6 +2,7 @@ onerror {resume}
 quietly WaveActivateNextPane {} 0
 add wave -noupdate -format Logic /reg/nrst
 add wave -noupdate -format Logic /reg/clk
+add wave -noupdate -format Logic /reg/en
 add wave -noupdate -format Literal -radix hexadecimal /reg/din
 add wave -noupdate -format Literal -radix hexadecimal /reg/dout
 TreeUpdate [SetDefaultTree]
