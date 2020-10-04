@@ -22,10 +22,10 @@ ops:
 - 7: circular left shift
 
 ### HW5
-	A 32-bit ALU using bit slice 1-bit ALUs. More info in the pdf in the folder [here](hw5/info.pdf).
+A 32-bit ALU using bit slice 1-bit ALUs. More info [here](hw5/info.pdf).
 
 ### HW6
-	A data-path for a simple cpu is implemented. info about instructions are in the pdf in the folder.
+data-path for a simple cpu is implemented. info about instructions are [here](hw6/info.pdf).
 
 ### HW7
-	A full uart with t0 standard. More info in the pdf in the folder.
+full uart with t0 standard. More info [here](hw7/info.pdf).
